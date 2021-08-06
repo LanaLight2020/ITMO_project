@@ -1,4 +1,4 @@
-# ITMO_project: part_1, part_2
+# ITMO_project
 
 ITMO_project_part_1 - клиент.
 
